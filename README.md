@@ -12,8 +12,8 @@ and achieves 97.78% accuracy on handwritten digit recognition.
 ---
 
 ## Demo
-![Alt Text](main/training_curves.png)
-![Alt Text](main/predictions.png)
+![Alt Text](images/training_curves.png)
+![Alt Text](images/predictions.png)
 
 
 ---
