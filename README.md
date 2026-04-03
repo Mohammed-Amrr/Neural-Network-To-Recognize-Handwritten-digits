@@ -1,5 +1,8 @@
 # Neural Network from Scratch — MNIST Digit Recognition
 
+This is by far one of the most detailed explanations for basic neural networks - built to help learning devs better understand each step in the program with detailed readme file and comments on nearly every line of code. 
+
+
 A fully functional neural network built using only Python and NumPy — no TensorFlow, 
 no PyTorch, no ML frameworks of any kind. Every operation, from the forward pass to 
 backpropagation, is implemented from first principles. Trained on the MNIST dataset 
