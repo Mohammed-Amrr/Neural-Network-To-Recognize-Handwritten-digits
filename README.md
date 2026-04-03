@@ -189,24 +189,6 @@ python test.py
 
 ---
 
-## Project structure 
-Neural_Network/
-│
-├── neural_network.py     # full network: training, evaluation, plots
-├── test.py               # interactive tester using saved weights
-├── README.md             # this file
-│
-├── W1.npy                # saved weights — layer 1 (generated after training)
-├── b1.npy                # saved biases  — layer 1
-├── W2.npy                # saved weights — layer 2
-├── b2.npy                # saved biases  — layer 2
-│
-└── images 
-     ├── training_curves.png   # loss and accuracy plots (generated after training)
-     └── predictions.png       # sample prediction grid  (generated after training) 
-
----
-
 ## Dependencies
 
 | Library      | Purpose                              |
