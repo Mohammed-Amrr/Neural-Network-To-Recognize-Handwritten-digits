@@ -381,7 +381,7 @@ print("Saved: predictions.png")
 # ─────────────────────────────────────────────
 # STEP 8 — SAVE TRAINED WEIGHTS TO DISK (NOT crucial)
 # DISCLAIMER: The code is finished the rest is used to save the trained weights and try the model manually from another script (test.py),  u will find this script in the same repo 
-# so we don't need to retrain every time
+# saving the weights , so we don't need to retrain every time 
 # ─────────────────────────────────────────────
 np.save("W1.npy", W1)
 np.save("b1.npy", b1)
